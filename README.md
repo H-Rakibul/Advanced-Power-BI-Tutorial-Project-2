@@ -18,10 +18,7 @@ This Power BI project provides insightful visualizations to track **incident tre
 - **Data Sources**: Includes incident reports and sales transactions categorized by location, employee, and tier.  
 
 ## 🚀 How to Use  
-1. Clone the repository:  
-   ```sh
-  (https://github.com/H-Rakibul/Advanced-Power-BI-Tutorial-Project-2.git)
-   ```  
+1. Clone the repository
 2. Open the Power BI file (`.pbix`) in **Power BI Desktop**.  
 3. Explore the interactive dashboards and analyze the trends.  
 4. Modify data sources if needed to suit your specific dataset.  
