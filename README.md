@@ -20,7 +20,7 @@ This Power BI project provides insightful visualizations to track **incident tre
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```sh
-   [git clone (https://github.com/H-Rakibul/Advanced-Power-BI-Tutorial-Project-2.git)]
+  (https://github.com/H-Rakibul/Advanced-Power-BI-Tutorial-Project-2.git)
    ```  
 2. Open the Power BI file (`.pbix`) in **Power BI Desktop**.  
 3. Explore the interactive dashboards and analyze the trends.  
